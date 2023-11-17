@@ -1,0 +1,49 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1 id="title"> C-preme Code
+  </h1>
+  <title id="title">
+  </title>
+  <p id="description"> Do you want to become a "C-preme" coder? Ok, you are in the perfect place and welcome forward to all of the universe C-preme coders. 
+  </p>
+  <form id="survey-form">
+    <label id="name-label"> Name <input placeholder="Enter your name" id="name" type="text" required>
+    </label>
+    <label id="email-label"> Email <input placeholder="Enter your email" id="email" type="email" required></input>
+    </label>
+    <label id="number-label">Age<input placeholder="age" id="number" type="number" min="10" max="11"></number></input>
+    </label>
+        <Select id="dropdown">
+          <option>option 1</option>
+          <option>option 2</option>
+        </select>
+        <select>
+          <input value="test1" name="test" type="radio">
+          </input>
+          <input value="test2" name="test" type="radio"></input>
+        </select>
+        <input type="checkbox" value="value">
+        </input>
+        <input type="checkbox" value="value">
+        </input>
+        <textarea></textarea>
+        <button id="submit" type="submit"></button>
+  </form>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+*{
+  background:;
+}
+
+** end of undefined **
+
